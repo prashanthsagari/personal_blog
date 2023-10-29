@@ -1,0 +1,11 @@
+.video-dimension {
+    width: 100%; 
+    height: 577px;
+}
+
+@media only screen and (max-width: 750px) {
+    .video-dimension {
+        height: 30vh;
+    }
+}
+
